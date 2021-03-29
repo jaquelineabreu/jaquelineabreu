@@ -3,6 +3,7 @@
 - 🌱 I'm currently learning python, but I love 🥰 programming in PHP
 - 📫 If you want to get in touch, you can email jaquelineabreuvr@gmail.com
 
+----------------------------------------------------------------------------------
 
 - 👋 Olá, sou @jaquelineabreu
 - 👀 Estou interessado em uma nova oportunidade de emprego na área de desenvolvimento
