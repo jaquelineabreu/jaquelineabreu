@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Jaqueline Abreu
 - :computer: Atualmente trabalho na IM+
-- :seedling:Sou desenvolvedora júnior backend
+- :seedling: Sou desenvolvedora júnior backend
 - :books: Tenho estudado golang e graphQL
 - :raising_hand_woman: Pronouns: ela/dela
 
