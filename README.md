@@ -29,4 +29,5 @@
   
 ##
 
-![snake gif](https://github.com/jaquelineabreu/jaquelineabreu/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/jaquelineabreu/jaquelineabreu/blob/output/github-contribution-grid-snake.svg)
+
