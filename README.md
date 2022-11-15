@@ -1,5 +1,4 @@
 ## Olá! Eu sou a Jaqueline Abreu
-##
 - :computer: Atualmente trabalho na IM+
 - :books: Tenho estudado golang e graphQL
 - :raising_hand_woman: Pronouns: ela/dela
