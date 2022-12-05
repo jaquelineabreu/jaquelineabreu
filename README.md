@@ -5,8 +5,15 @@
 
 <div>
   <a href="https://github.com/jaquelineabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquelineabreu&repo=github-readme-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquelineabreu&repo=convoychat" />
+  </a>
 </div>
+  
+
 
 <div style="display: inline_block"><br>
 <img align="center" alrt="Jaque-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
