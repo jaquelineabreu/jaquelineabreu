@@ -5,12 +5,8 @@
 
 <div>
   <a href="https://github.com/jaquelineabreu">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquelineabreu&repo=github-readme-stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jaquelineabreu&repo=convoychat" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=jaquelineabreu&layout=compact&langs_count=16&theme=dracula">
 </div>
   
 
