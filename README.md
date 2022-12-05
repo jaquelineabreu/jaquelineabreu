@@ -1,14 +1,15 @@
 ## Olá! Eu sou a Jaqueline Abreu
-- :computer: Atualmente trabalho na IM+
 - :seedling: Sou desenvolvedora júnior backend
 - :books: Tenho estudado golang e graphQL
 - :raising_hand_woman: Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/jaquelineabreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelineabreu&layout=compact&langs_count=16&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">  
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaquelineabreu&layout=compact&langs_count=16&theme=dracula">
 </div>
+  
+
 
 <div style="display: inline_block"><br>
 <img align="center" alrt="Jaque-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
