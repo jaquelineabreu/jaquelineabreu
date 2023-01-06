@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Jaqueline Abreu
 - :seedling: Sou desenvolvedora júnior backend
-- :books: Tenho estudado golang e graphQL
+- :books: Tenho estudado NodeJS
 - :raising_hand_woman: Pronouns: ela/dela
 
 <div>
