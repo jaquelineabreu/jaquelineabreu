@@ -11,7 +11,7 @@ Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar cont
 - **Controle de Versão:** Uso Git e GitHub para gerenciamento de projetos e código.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&show_icons=true&theme=radical" alt="Jaqueline's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Jaqueline's GitHub Stats">
 </p>
 
 
