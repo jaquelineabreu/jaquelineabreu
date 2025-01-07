@@ -19,3 +19,6 @@ Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar cont
 - [LinkedIn](https://www.linkedin.com/in/jaqueline-abreu/)
 - Email: jaquelineabreuvr@example.com
 
+- ![Visitantes no perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jaquelineabreu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
+
+
