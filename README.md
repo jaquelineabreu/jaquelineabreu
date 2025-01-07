@@ -24,7 +24,8 @@ Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar cont
 <p align="left">
   <a href="https://www.linkedin.com/in/jaqueline-abreu/"><img src="https://img.shields.io/badge/LinkedIn-Jaqueline%20Abreu-blue?style=flat-square&logo=linkedin"></a>
   <br>
-  Email: jaquelineabreuvr@gmail.com
+  <a href="mailto:jaquelineabreuvr@gmail.com"><img src="https://img.shields.io/badge/Email-jaquelineabreuvr%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+
 </p>
 
 ---
