@@ -78,14 +78,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/jaquelineabreu/jaquelineabreu/main/assets/bar_graph.png)
-
-
- Last Updated on 13/01/2025 18:39:35 UTC
+Last Updated on 13/01/2025
 <!--END_SECTION:waka-->
 
 ---
