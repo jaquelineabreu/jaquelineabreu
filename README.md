@@ -13,6 +13,79 @@ Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar cont
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 296.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 70 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 55 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                193 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+🌆 Daytime                517 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+🌃 Evening                1404 commits        ███████████████░░░░░░░░░░   60.36 % 
+🌙 Night                  212 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   215 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Tuesday                  392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Wednesday                506 commits         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Thursday                 570 commits         ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Friday                   213 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Saturday                 119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Go** 
+
+```text
+Go                       42 repos            █████████████░░░░░░░░░░░░   52.50 % 
+JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jaquelineabreu/jaquelineabreu/main/assets/bar_graph.png)
+
+
+ Last Updated on 13/01/2025 18:07:52 UTC
 <!--END_SECTION:waka-->
 
 ---
