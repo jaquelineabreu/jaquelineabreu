@@ -89,15 +89,6 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
-<!-- GitHub Stats -->
-<p align="left" style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaquelineabreu&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Jaqueline's GitHub Stats" style="width: 48%; height: 200px; object-fit: contain;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelineabreu&layout=compact&theme=radical" alt="Linguagens Mais Usadas" style="width: 48%; height: 200px; object-fit: contain;" />
-</p>
-<!-- End GitHub Stats -->
-
-
----
 
 📫 **Entre em Contato:**
 <p align="left">
