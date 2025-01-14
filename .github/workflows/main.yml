@@ -1,23 +1,28 @@
-name: Waka Readme
+name: Update Readme with Metrics
 
 on:
   schedule:
-    - cron: '0 18 * * *' 
-  workflow_dispatch:
+    - cron: '0 0 * * *'  
+  workflow_dispatch: 
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit Changes
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add .
-          git commit -m "Atualiza README com métricas do WakaTime"
-          git push
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Run waka-readme-stats
+      uses: anmol098/waka-readme-stats@master
+      env:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "Atualiza README com métricas do WakaTime" || echo "No changes to commit"
+        git push
