@@ -5,7 +5,7 @@
 Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar continuamente minhas habilidades. Atualmente, estou me aprofundando em Java, explorando novas tecnologias e técnicas para expandir meu repertório de desenvolvimento.
 
 🛠 **Habilidades Técnicas:**
-- **Linguagens de Programação:** Atuo principalmente com Go e estou aprendendo **Java**.
+- **Linguagens de Programação:** Atuo principalmente com Go e estou aprendendo **Java e PHP**.
 - **Ferramentas e Plataformas:** Tenho experiência com Docker, Kubernetes e AWS.
 - **Bancos de Dados:** Atuei com MySQL, PostgreSQL, MongoDB.
 - **Controle de Versão:** Uso Git e GitHub para gerenciamento de projetos e código.
