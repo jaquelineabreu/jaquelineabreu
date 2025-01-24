@@ -4,11 +4,19 @@
 👩‍💻 **Sobre Mim:**
 Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar continuamente minhas habilidades. Atualmente, estou me aprofundando em Java, explorando novas tecnologias e técnicas para expandir meu repertório de desenvolvimento.
 
-🛠 **Habilidades Técnicas:**
-- **Linguagens de Programação:** Atuo principalmente com Go e estou aprendendo **Java e PHP**.
+:computer: **Habilidades Técnicas:**
+- **Linguagens de Programação:** Atuo principalmente com Go.
 - **Ferramentas e Plataformas:** Tenho experiência com Docker, Kubernetes e AWS.
 - **Bancos de Dados:** Atuei com MySQL, PostgreSQL, MongoDB.
 - **Controle de Versão:** Uso Git e GitHub para gerenciamento de projetos e código.
+
+
+[![My Skills](https://skillicons.dev/icons?i=go,docker,mongodb,mysql,postman,linux)](https://skillicons.dev)
+
+---
+ :books: **Estudando:**
+ 
+ [![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
 
 ---
 
