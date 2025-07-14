@@ -16,7 +16,7 @@ Sou uma desenvolvedora de software com uma paixão por aprender e aprimorar cont
 ---
  :books: **Estudando:**
  
- [![My Skills](https://skillicons.dev/icons?i=java,php)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ---
 
